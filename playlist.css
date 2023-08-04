@@ -4,8 +4,7 @@
   --light-grey: #232323;
   --white: #fff;
 }
-body,
-html {
+body,html {
   margin: 0rem;
   overflow: hidden;
   display: flex;
